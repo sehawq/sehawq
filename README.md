@@ -7,10 +7,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Solomon | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="solomon.discord | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="solomon01_ | Steam" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/steam.svg" />][steam]
-[<img align="left" alt="solomon01_ | Twitch" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/twitch.svg" />][twitch]
+[<img align="left" alt="Solomon | YouTube" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/320px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
+[<img align="left" alt="solomon.discord | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="solomon01_ | Steam" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" />][steam]
+[<img align="left" alt="solomon01_ | Twitch" width="25px" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png" />][twitch]
 
 
 
