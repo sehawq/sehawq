@@ -40,6 +40,10 @@
 
 ### Platforms I Use to Write/Edit Code:
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Notedpad++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/1184px-Notepad%2B%2B_Logo.svg.png" />][webdevplaylist]
+[<img align="left" alt="Atom" width="40px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />][webdevplaylist]
+
+
 
 
 
