@@ -49,10 +49,10 @@
 [instagram]: https://www.instagram.com/solomon.discord/
 [steam]: https://steamcommunity.com/profiles/76561199004937281
 [twitch]: https://www.twitch.tv/solomon01_
-[website]: 1
-[course]: 1
-[linkedin]: 1
-[webdevplaylist]: 1
-[jsplaylist]: .
-[cssplaylist]: 1
-[reactplaylist]: 1
+[website]: https://github.com/Solomonxyz/Solomon/blob/main/README.md
+[course]: https://github.com/Solomonxyz/Solomon/blob/main/README.md
+[linkedin]: https://github.com/Solomonxyz/Solomon/blob/main/README.md
+[webdevplaylist]: https://github.com/Solomonxyz/Solomon/blob/main/README.md
+[jsplaylist]: https://github.com/Solomonxyz/Solomon/blob/main/README.md
+[cssplaylist]: https://github.com/Solomonxyz/Solomon/blob/main/README.md
+[reactplaylist]: https://github.com/Solomonxyz/Solomon/blob/main/README.md
