@@ -5,8 +5,6 @@
 - 📗 **My First Software Curiosity Started With NodeJS Language.**
 - 📘 **Open World And Fps Games I Love Some Games I Play, Valorant, Gta V Etc. are games.**
 
-<iframe src="https://open.spotify.com/embed/track/1Knoa94gtVFBucOd0n5US3" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
