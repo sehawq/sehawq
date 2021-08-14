@@ -9,6 +9,10 @@
 
 [<img align="left" alt="Solomon | YouTube" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="solomon.discord | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="solomon01_ | Steam" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/steam.svg" />][steam]
+[<img align="left" alt="solomon01_ | Twitch" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v1/icons/twitch.svg" />][twitch]
+
+
 
 <br />
 
@@ -43,3 +47,5 @@
 
 [youtube]: https://www.youtube.com/c/Solomonss/
 [instagram]: https://www.instagram.com/solomon.discord/
+[steam]: https://steamcommunity.com/profiles/76561199004937281
+[twitch]: https://www.twitch.tv/solomon01_
