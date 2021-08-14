@@ -49,10 +49,10 @@
 [instagram]: https://www.instagram.com/solomon.discord/
 [steam]: https://steamcommunity.com/profiles/76561199004937281
 [twitch]: https://www.twitch.tv/solomon01_
-[website]: 
-[course]: 
-[linkedin]: 
-[webdevplaylist]:
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
+[website]: 1
+[course]: 1
+[linkedin]: 1
+[webdevplaylist]: 1
+[jsplaylist]: .
+[cssplaylist]: 1
+[reactplaylist]: 1
