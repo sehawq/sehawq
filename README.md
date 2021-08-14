@@ -8,8 +8,8 @@
 ### Connect with me:
 
 [<img align="left" alt="Solomon | YouTube" width="25px" src="https://seeklogo.com/images/Y/youtube-icon-logo-521820CDD7-seeklogo.com.png" />][youtube]
-[<img align="left" alt="solomon.discord | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" alt="solomon01_ | Steam" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" />][steam]
+[<img align="left" alt="solomon.discord | Instagram" width="25px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />][instagram]
+[<img align="left" alt="solomon01_ | Steam" width="25px" src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png" />][steam]
 [<img align="left" alt="solomon01_ | Twitch" width="25px" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png" />][twitch]
 
 
