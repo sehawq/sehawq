@@ -1,4 +1,4 @@
-# Hello, I'm Solomon, The following are my projects. 🔮
+# Hello, I'm Seha, The following are my projects. 🔮
 
 
 - 📕 **I'm a Node.JS and Html Student.**
@@ -56,11 +56,11 @@
 
 
 
-[youtube]: https://www.youtube.com/c/Solomonss/
-[instagram]: https://www.instagram.com/solomon.discord/
+[youtube]: https://www.youtube.com/c/Solomondev/
+[instagram]: https://www.instagram.com/sehawq/
 [steam]: https://steamcommunity.com/profiles/76561199004937281
 [twitch]: https://www.twitch.tv/solomon01_
-[website]: https://github.com/Solomonxyz/Solomon/blob/main/README.md
+[website]: https://github.com/sehawq/sehawq/blob/main/README.md
 [course]: https://github.com/Solomonxyz/Solomon/blob/main/README.md
 [linkedin]: https://github.com/Solomonxyz/Solomon/blob/main/README.md
 [webdevplaylist]: https://github.com/Solomonxyz/Solomon/blob/main/README.md
