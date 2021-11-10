@@ -1,4 +1,4 @@
-```json
+```js
 
 const seha = require('seha')
 const github = require('sehawq')
