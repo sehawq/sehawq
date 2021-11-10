@@ -9,4 +9,4 @@
     "Personal Server": "https://discord.gg/coder",
     "gender": "male"
   
-  };
+  }
