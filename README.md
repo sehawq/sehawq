@@ -4,9 +4,9 @@
     "About me": {
         "age" : "17",
         "Job" : "Student",
-        "Discord" : "nightlunar#0001",
-        "Instagram": "nightlunar",
-        "Steam": "nightlunar",
+        "Discord" : "Seha#1736",
+        "Instagram": "sehawq",
+        "Steam": "sehawq",
         "gender": "male"
 }
 }
