@@ -2,11 +2,11 @@
 
 {
     "About me": {
-        "age" : "17",
-        "Job" : "Student",
-        "Discord" : "Seha#1736",
-        "Instagram": "sehawq",
-        "Steam": "sehawq",
+        "age" : "25",
+        "Job" : "Developer",
+        "Discord" : "sehagod",
+        "Instagram": "seha.exe",
+        "Steam": "sehagod",
         "gender": "male"
 }
 }
