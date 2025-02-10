@@ -2,7 +2,7 @@
 
 {
     "About me": {
-        "age" : "25",
+        "age" : "21",
         "Job" : "Developer",
         "Discord" : "sehagod",
         "Instagram": "seha.exe",
