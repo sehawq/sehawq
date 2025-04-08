@@ -14,7 +14,7 @@ I’m a curious developer who’s been fascinated by software since the age of 1
 - **[Project Name]:** [Short description] - [Link]
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehawq&show_icons=true&theme=dracula)
 
 ## 📫 Connect With Me
 - [Twitter/X: @yourhandle]
