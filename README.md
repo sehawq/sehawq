@@ -6,8 +6,8 @@ I’m a curious developer who’s been fascinated by software since the age of 1
 
 ## 🚀 About Me
 - **Currently:** [What you’re working on, e.g., "Crafting the next big thing."]
-- **Tech Stack:** [e.g., Python, JavaScript, Kubernetes]
-- **Fun Fact:** [Something quirky, e.g., "I debug dreams as well as code."]
+- **Tech Stack:** Python, JavaScript, CSS, PHP
+- **Fun Fact:** "I debug dreams as well as code."
 
 ## 🌌 Featured Projects
 - **[Project Name]:** [Short description] - [Link]
