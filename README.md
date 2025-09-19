@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **[your current project or technology]**.
+- 🔭 Currently working on **Chess 2**.
 - 🌱 Improving my skills in **JavaScript, Python**, and modern web technologies.
 - 🎯 Goal: Build impactful projects and contribute to open source communities.
 - 📚 Passionate about clean code, scalable architecture, and problem-solving.
@@ -41,8 +41,8 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: **your.email@example.com**
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 📧 Email: **sehawq@icloud.com**
+- 💼 LinkedIn: -
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
