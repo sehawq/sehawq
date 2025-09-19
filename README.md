@@ -1,24 +1,52 @@
-# Hey, I'm [Ömer]! 👋
+# 👋 Hello, I'm Ömer
 
-> *"I code because the universe is a puzzle, and I’m here to solve it—one line at a time."*
+💻 **Software Developer in Progress** | 🚀 **Open Source Contributor** | 🎯 **Aspiring Full-Stack Engineer**
 
-I’m a curious developer who’s been fascinated by software since the age of 12, dedicated to a life of exploration, reading, and learning. Welcome to my corner of GitHub, where creativity meets code.
+---
 
-## 🚀 About Me
-- **Currently:** [What you’re working on, e.g., "Crafting the next big thing."]
-- **Tech Stack:** Python, JavaScript, CSS, PHP
-- **Fun Fact:** "I debug dreams as well as code."
+## 🌟 About Me
+- 🔭 Currently working on **[your current project or technology]**.
+- 🌱 Improving my skills in **JavaScript, Python**, and modern web technologies.
+- 🎯 Goal: Build impactful projects and contribute to open source communities.
+- 📚 Passionate about clean code, scalable architecture, and problem-solving.
 
-## 🌌 Featured Projects
-- **[Project Name]:** [Short description] - [Link]
-- **[Project Name]:** [Short description] - [Link]
+---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehawq&show_icons=true&theme=dracula)
+## 📊 GitHub Statistics
 
-## 📫 Connect With Me
-- [Twitter/X: @yourhandle]
-- [Email: your.email@example.com]
-- [Website or other link]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)](https://github.com/YOUR_USERNAME)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)](https://github.com/YOUR_USERNAME)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true)](https://git.io/streak-stats)
 
-> *"Code it. Break it. Fix it. That’s how we grow."*
+---
+
+## 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📫 Contact
+- 📧 Email: **your.email@example.com**
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+💡 *Fun fact:* If you are working with AI/ML, there might be some lines of code on your machine written by me!  
+
+⭐️ *If you like my work, consider giving a star to my repositories!*
