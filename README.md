@@ -14,15 +14,15 @@
 
 ## 📊 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)](https://github.com/YOUR_USERNAME)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)](https://github.com/YOUR_USERNAME)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehawq&show_icons=true&theme=default&hide_border=true)](https://github.com/YOUR_USERNAME)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehawq&layout=compact&theme=default&hide_border=true)](https://github.com/YOUR_USERNAME)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=sehawq&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sehawq&theme=flat&no-frame=true&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
