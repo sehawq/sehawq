@@ -43,7 +43,7 @@
 ## 📫 Contact
 - 📧 Email: **sehawq@icloud.com**
 - 💼 LinkedIn: -
-- 🌐 Portfolio: [My Portfolio]([https://yourwebsite.com](https://sehawq.github.io/))
+- 🌐 Portfolio: [My Portfolio]([https://sehawq.github.io](https://sehawq.github.io))
 
 ---
 
