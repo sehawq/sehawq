@@ -14,8 +14,8 @@
 
 ## 📊 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehawq&show_icons=true&theme=default&hide_border=true)](https://github.com/YOUR_USERNAME)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehawq&layout=compact&theme=default&hide_border=true)](https://github.com/YOUR_USERNAME)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sehawq&show_icons=true&theme=default&hide_border=true)](https://github.com/sehawq)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehawq&layout=compact&theme=default&hide_border=true)](https://github.com/sehawq)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=sehawq&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
