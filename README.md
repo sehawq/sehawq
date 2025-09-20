@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ömer
 
-💻 **Software Developer in Progress** | 🚀 **Open Source Contributor** | 🎯 **Computer Science & Information Systems**
+💻 **Software Developer** | 🚀 **Open Source Contributor** | 🎯 **Computer Science & Information Systems**
 
 ---
 
