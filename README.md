@@ -91,6 +91,59 @@ Production-ready Discord bot starter with TypeScript & slash commands. Clean arc
 #### Wakatime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.47%20thousand%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                27 commits          ████████░░░░░░░░░░░░░░░░░   31.03 % 
+🌆 Daytime                13 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+🌃 Evening                34 commits          ██████████░░░░░░░░░░░░░░░   39.08 % 
+🌙 Night                  13 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Tuesday                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Wednesday                11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Friday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Saturday                 47 commits          ██████████████░░░░░░░░░░░   54.02 % 
+Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+
+
+ Last Updated on 15/02/2026 18:50:06 UTC
 <!--END_SECTION:waka-->
 
 ---
