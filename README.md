@@ -91,10 +91,7 @@ Production-ready Discord bot starter with TypeScript & slash commands. Clean arc
 #### Wakatime Stats
 
 <!--START_SECTION:waka-->
-Setting up Wakatime...
 <!--END_SECTION:waka-->
-
-> 💡 *Wakatime istatistikleri otomatik olarak güncellenecektir. Kurulum talimatları aşağıdadır.*
 
 ---
 
