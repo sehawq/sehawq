@@ -80,12 +80,6 @@ Production-ready Discord bot starter with TypeScript & slash commands. Clean arc
 
 </div>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sehawq&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)
-
-</div>
-
 ---
 
 #### Wakatime Stats
@@ -163,6 +157,8 @@ C                        1 repo              ████░░░░░░░�
 ---
 
 <div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 📧 **sehawq@icloud.com** · 🌐 **[sehawq.github.io](https://sehawq.github.io)**
 
