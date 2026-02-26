@@ -14,11 +14,11 @@
 
 #### `> whoami`
 
-Software developer who enjoys building tools people actually use. I maintain open-source packages on npm, contribute to projects like [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI), and occasionally break things while trying to fix them.
+Software developer who enjoys building tools people actually use. I maintain open-source packages on npm, contribute to projects, and occasionally break things while trying to fix them.
 
 - 🔧 Maintaining [**sehawq.db**](https://github.com/sehawq/sehawq.db) — lightweight JSON key-value database for Node.js
 - ♟️ Building **Chess 2** — because the original needed a sequel
-- 🛠️ Contributing to open source — [latest PR](https://github.com/ValdikSS/GoodbyeDPI/pull/838)
+- 🛠️ Contributing to open source 
 
 ---
 
@@ -80,64 +80,11 @@ Production-ready Discord bot starter with TypeScript & slash commands. Clean arc
 
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!-- WAKATIME SECTION HIDDEN - uncomment heading below when data is populated -->
 <!-- #### Wakatime Stats -->
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2021%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.31%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-🌆 Daytime                21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-🌃 Evening                103 commits         ██████████░░░░░░░░░░░░░░░   41.20 % 
-🌙 Night                  99 commits          ██████████░░░░░░░░░░░░░░░   39.60 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Tuesday                  94 commits          █████████░░░░░░░░░░░░░░░░   37.60 % 
-Wednesday                38 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Friday                   40 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Saturday                 63 commits          ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-Sunday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Istanbul
-
-💬 Programming Languages: 
-JavaScript               3 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Antigravity              3 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-sehawq-db                3 mins              █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C                        1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-```
-
-
-
-
- Last Updated on 25/02/2026 19:33:07 UTC
-<!--END_SECTION:waka-->
 
 ---
 
