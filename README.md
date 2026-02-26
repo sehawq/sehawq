@@ -80,8 +80,7 @@ Production-ready Discord bot starter with TypeScript & slash commands. Clean arc
 
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sehawq&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=sehawq)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- WAKATIME SECTION HIDDEN - uncomment heading below when data is populated -->
 <!-- #### Wakatime Stats -->
